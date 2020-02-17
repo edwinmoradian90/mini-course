@@ -1,25 +1,30 @@
-# README
+# Mini-course
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is mocking learning platform, with videos seperated as 'mini-courses'.
+The true objective of the project is to gain more experience using React on top of Rails.
+The final result is a single page mini-course section, which supplies all the data from Rails,
+and uses React for the UI.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+Coming soon...
 
-* System dependencies
+## Built With
 
-* Configuration
+* [React](https://reactjs.org/) - Frontend
+* [Ruby on Rails](https://rubyonrails.org/) - Backend
+* [Webpack](https://webpack.js.org/) - Asset bundler
+* [Bootstrap](https://getbootstrap.com/) - Styling
+* [Styled Components](https://styled-components.com/docs) - Building styled components
 
-* Database creation
+## Authors
 
-* Database initialization
+* **Edwin Moradian** -  [Github](https://github.com/edwinmoradian90)
 
-* How to run the test suite
+## License
 
-* Services (job queues, cache servers, search engines, etc.)
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-* Deployment instructions
+## Acknowledgments
 
-* ...
-# mini-course
+* Zayne
