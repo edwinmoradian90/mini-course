@@ -16,7 +16,7 @@ Coming soon...
 * [Webpack](https://webpack.js.org/) - Asset bundler
 * [Bootstrap](https://getbootstrap.com/) - Styling
 * [Styled Components](https://styled-components.com/docs) - Building styled components
-
+* [axios](https://github.com/axios/axios) - Promise based HTTP client
 ## Authors
 
 * **Edwin Moradian** -  [Github](https://github.com/edwinmoradian90)
